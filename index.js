@@ -14,10 +14,3 @@ function sayHiToGrandma(string){
   else{
     return "I love you, too."
   }}
-  
-logshout(string){
-  console.log(string)
-}
-logWhisper(string){
-  console.log(string)
-}
