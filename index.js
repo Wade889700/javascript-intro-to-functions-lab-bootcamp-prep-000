@@ -14,6 +14,6 @@ function sayHiToGrandma(string){
   else{
     return "I love you, too."
   }}
-function logshout(string){
+function logShout(string){
   console.log(string)
 }
