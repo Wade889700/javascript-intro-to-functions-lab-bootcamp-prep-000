@@ -15,7 +15,5 @@ function sayHiToGrandma(string){
     return "I love you, too."
   }}
 function logShout(string){
-  if(string.toUpperCase()===toHaveBeenCalledWith('HELLO')){
-    console.log(string)
-  }
+  return console.log(string.toUpperCase())
 }
